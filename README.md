@@ -1,5 +1,8 @@
 # Spam Email Classifier
 
+## Demo
+https://spam-email-classifier-m58jhn64fj7x2wjqqe85ov.streamlit.app/
+
 ## Overview
 
 This project is a Machine Learning-based Spam Email Classifier that predicts whether a message is Spam or Ham (Not Spam).
